@@ -1,0 +1,19 @@
+canvas{
+    border:5px solid black;
+    position:relative;
+    margin-left:23%;
+    margin-top:9%;
+    border-radius: 10px;
+    border:2px solid rgb(248, 89, 89);
+}
+body{
+    background-color: black;
+}
+h1{
+    color:white;
+    position:absolute;
+    top:40px;
+    left:18%;
+    letter-spacing: 10px;
+    border-bottom: 2px solid rgb(98, 167, 231);
+}
